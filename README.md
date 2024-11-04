@@ -7,3 +7,5 @@ Thanks to: https://learn.microsoft.com/en-us/fabric/data-science/read-write-powe
 By default, the workspace used to access semantic models is:
 - the workspace of the attached Lakehouse or
 - the workspace of the notebook, if no Lakehouse is attached.
+
+Link to the notebook: https://github.com/LuisSoaresMSFT/Spark---Miscellaneous/blob/main/Semantic%20Model%20-%20Full%20Export.ipynb
